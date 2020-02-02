@@ -1,1 +1,1 @@
-# Computatioanal-Intelligance
+# Computatioanal-Intelligence
